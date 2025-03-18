@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi there 👋 I'm Gokul Krishnan B </h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px" align="right">
+</p>
 ## 🧠 AI & ML Enthusiast | Experimenting and Innovating to Shape the Future of Technology 🧠
 
 - 🌟 🎯 **Microsoft Certified AI Engineer Associate** 🌟
@@ -14,12 +16,15 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-krishnan-b-230468265) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/gokul_krishnan3)
 
 
 ---
 
 ### 🖥️ I code in:
 <p align="left">
+    <img src="https://camo.githubusercontent.com/4045f58fd000d13e93b7df07bd36e5949b13989ecc8718baf0e05e145901324a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" width="40" height="40"/>
+
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
