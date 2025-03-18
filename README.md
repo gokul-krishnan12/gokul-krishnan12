@@ -1,19 +1,19 @@
 
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋 I'm Gokul Krishnan B </h1>
 
 ## 🧠 AI & ML Enthusiast | Experimenting and Innovating to Shape the Future of Technology 🧠
 
 - 🌟 🎯 **Microsoft Certified AI Engineer Associate** 🌟
-- 🛠️ I'm currently working on a **[Project Name]** focused on **[Project Focus]**.
-- 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
+- 🛠️ I'm currently working on a **[DeepFake Detection]** focused on **[Detecting the fake videos and images]**.
+- 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **AI Technologies**.
 - 🤝 I'm looking to collaborate on **Machine Learning projects**.
 - 🚀 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
-- 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
+- 💬 Ask me about **AI**, **Machine Learning**, and **Full Stack Development**.
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/gokul-krishnan-b-230468265) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/your-profile)
 
 ---
