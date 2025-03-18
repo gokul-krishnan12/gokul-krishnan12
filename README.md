@@ -11,10 +11,10 @@
 - 💬 Ask me about **AI**, **Machine Learning**, and **Full Stack Development**.
 
 ---
-
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/gokul-krishnan-b-230468265) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-krishnan-b-230468265) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/your-profile)
+
 
 ---
 
